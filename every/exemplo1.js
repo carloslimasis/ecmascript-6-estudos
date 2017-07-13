@@ -6,7 +6,7 @@ const alunos = [
 
 let todosAlunosDeMaior = true;
 
-for(const i = 0; i < alunos.length; i++) {
+for(let i = 0; i < alunos.length; i++) {
     if(alunos[i].idade < 18) {
         todosAlunosDeMaior = false;
         break;
