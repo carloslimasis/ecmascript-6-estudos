@@ -1,4 +1,4 @@
-const alunos = [
+const students = [
     {nome: 'joao', idade: 18},
     {nome: 'maria', idade: 20},
     {nome: 'jose', idade: 24}
